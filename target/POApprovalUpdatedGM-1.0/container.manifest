@@ -1,0 +1,40 @@
+CACHE MANIFEST
+
+#version 1.0.0.5
+CACHE:
+
+#css files
+stylesheets/fonts.css
+stylesheets/ie.css
+stylesheets/invoice-appstore.css
+stylesheets/login.css
+stylesheets/model.css
+stylesheets/screen.css
+
+
+#js files
+js/frameworks/cordova.js
+js/frameworks/jquery-1.8.2.min.js
+js/frameworks/json-minified.js
+js/frameworks/plugins.js
+js/gulfmark/Constants.js
+js/gulfmark/Controller.js
+
+#images
+images/appstore-icon-overlay.png
+images/blank.png
+images/checkbox-check.png
+images/favicon.ico
+images/favicon.png
+images/header-bg.png
+images/login-bg.jpg
+images/logo.png
+images/logout-btn-mobile.png
+images/password-icon.jpg
+images/section-loader.gif
+images/sprites-sd5ab0f708a.png
+images/user-icon.jpg
+
+# Use from network if available
+NETWORK:
+*
